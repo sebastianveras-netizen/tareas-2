@@ -1,0 +1,1 @@
+/bin/g++ -g "CMakeFiles/tarea-7.dir/tarea-7_autogen/mocs_compilation.cpp.o" "CMakeFiles/tarea-7.dir/tarea-7.cpp.o" -o tarea-7

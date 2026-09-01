@@ -1,0 +1,295 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6b7bce7d041fc94a1c43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-1-Debug-b2ca3aca5b4805a1242a.json",
+					"name" : "tarea-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-1_autogen-Debug-ce6a4100d8914535b647.json",
+					"name" : "tarea-1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-1_autogen_timestamp_deps-Debug-ad42e85f556d3292c51e.json",
+					"name" : "tarea-1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-2-Debug-633b3d3920518b22626e.json",
+					"name" : "tarea-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-2_autogen-Debug-008c46b330b913a12ea4.json",
+					"name" : "tarea-2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-2_autogen_timestamp_deps-Debug-952e8000d99fb8ac8fa8.json",
+					"name" : "tarea-2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-3-Debug-612a9ea6d7ab5d948f00.json",
+					"name" : "tarea-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-3_autogen-Debug-ac5dc103438932b06ce2.json",
+					"name" : "tarea-3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-3_autogen_timestamp_deps-Debug-ef764f07bab38ec9a52a.json",
+					"name" : "tarea-3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-4-Debug-77feef12be8a68c74f26.json",
+					"name" : "tarea-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-4_autogen-Debug-3e9269b0450dc3a6de69.json",
+					"name" : "tarea-4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-4_autogen_timestamp_deps-Debug-6ff857c32957b047431b.json",
+					"name" : "tarea-4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-5-Debug-3c39fdfd86a9b89ac0b2.json",
+					"name" : "tarea-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-5_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-5_autogen-Debug-e4d1550a20aae35cbe4e.json",
+					"name" : "tarea-5_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-5_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-5_autogen_timestamp_deps-Debug-4b700106daf2e2fa25d9.json",
+					"name" : "tarea-5_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-6-Debug-274e4fe40ac995a937a8.json",
+					"name" : "tarea-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-6_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-6_autogen-Debug-e467bfa4d7721f4e0c99.json",
+					"name" : "tarea-6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-6_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-6_autogen_timestamp_deps-Debug-9248ee4ee2f08539efc9.json",
+					"name" : "tarea-6_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-7-Debug-306fcd2a93e994ec9a96.json",
+					"name" : "tarea-7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-7_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-7_autogen-Debug-6703be170ea65364e8b8.json",
+					"name" : "tarea-7_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-7_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-7_autogen_timestamp_deps-Debug-154f50a3c955d78e1538.json",
+					"name" : "tarea-7_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-8-Debug-f28a1ef8525050b50c4d.json",
+					"name" : "tarea-8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-8_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-8_autogen-Debug-98d1eb7d4dc51353ad45.json",
+					"name" : "tarea-8_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tarea-8_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tarea-8_autogen_timestamp_deps-Debug-0cc4b9a55b05c1a2f2f8.json",
+					"name" : "tarea-8_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled-Debug-6227ac66b90d9b568e10.json",
+					"name" : "untitled",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled_autogen-Debug-2f1d0f9645a164cfceaa.json",
+					"name" : "untitled_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled_autogen_timestamp_deps-Debug-d0e2203126c0a256af3e.json",
+					"name" : "untitled_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sebastian/tareas-informatica-2/tareas-2informatica/untitled/build/Desktop_Qt_6_11_1_Debug",
+		"source" : "/home/sebastian/tareas-informatica-2/tareas-2informatica/untitled"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
